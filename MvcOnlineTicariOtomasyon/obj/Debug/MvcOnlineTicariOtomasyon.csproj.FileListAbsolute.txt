@@ -77,3 +77,7 @@ C:\C#\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicar
 C:\C#\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlin.4E6695AF.Up2Date
 C:\C#\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.dll
 C:\C#\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.pdb
+C:\C#\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.dll
+C:\C#\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.SqlServer.dll
+C:\C#\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.xml
+C:\C#\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\bin\EntityFramework.SqlServer.xml
