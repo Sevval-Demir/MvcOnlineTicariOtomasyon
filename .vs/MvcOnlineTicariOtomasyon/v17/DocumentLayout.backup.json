@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\C#\\MvcOnlineTicariOtomasyon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|C:\\C#\\MvcOnlineTicariOtomasyon\\mvconlineticariotomasyon\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|C:\\C#\\MvcOnlineTicariOtomasyon\\mvconlineticariotomasyon\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|c:\\c#\\mvconlineticariotomasyon\\mvconlineticariotomasyon\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|c:\\c#\\mvconlineticariotomasyon\\mvconlineticariotomasyon\\views\\urun\\urungetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\views\\urun\\urungetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|c:\\c#\\mvconlineticariotomasyon\\mvconlineticariotomasyon\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|C:\\C#\\MvcOnlineTicariOtomasyon\\mvconlineticariotomasyon\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|c:\\c#\\mvconlineticariotomasyon\\mvconlineticariotomasyon\\views\\urun\\yeniurun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\views\\urun\\yeniurun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,42 +41,59 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrunGetir.cshtml",
+              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Urun\\UrunGetir.cshtml",
+              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Views\\Urun\\UrunGetir.cshtml",
+              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Urun\\UrunGetir.cshtml",
+              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Views\\Urun\\UrunGetir.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T15:34:54.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YeniUrun.cshtml",
+              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Urun\\YeniUrun.cshtml",
+              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Views\\Urun\\YeniUrun.cshtml",
+              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Urun\\YeniUrun.cshtml",
+              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Views\\Urun\\YeniUrun.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T22:26:45.103Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "KategoriController.cs",
-              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Controllers\\KategoriController.cs",
-              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Controllers\\KategoriController.cs",
-              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Controllers\\KategoriController.cs",
-              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Controllers\\KategoriController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAswC4AAAAJAAAAAAAAAA==",
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Controllers\\UrunController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T18:58:56.12Z",
+              "WhenOpened": "2025-02-19T22:24:33.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Kategori\\Index.cshtml",
-              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Views\\Kategori\\Index.cshtml",
-              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Kategori\\Index.cshtml",
-              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Views\\Kategori\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Views\\Urun\\Index.cshtml",
+              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Views\\Urun\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T18:20:33.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "KategoriGetir.cshtml",
-              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Kategori\\KategoriGetir.cshtml",
-              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Views\\Kategori\\KategoriGetir.cshtml",
-              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Kategori\\KategoriGetir.cshtml",
-              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Views\\Kategori\\KategoriGetir.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T10:43:39.119Z",
+              "WhenOpened": "2025-02-19T22:22:57.332Z",
               "EditorCaption": ""
             }
           ]
