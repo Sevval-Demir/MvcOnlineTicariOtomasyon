@@ -1,10 +1,5 @@
 # 🌟 Asp.Net Mvc5 ile Online Ticari Otomasyon
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/Sevval-Demir/MVC-Ticari-Otomasyon?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Sevval-Demir/MVC-Ticari-Otomasyon?style=social)
-![GitHub License](https://img.shields.io/github/license/Sevval-Demir/MVC-Ticari-Otomasyon)
-![GitHub Issues](https://img.shields.io/github/issues/Sevval-Demir/MVC-Ticari-Otomasyon)
-
 Bu proje, **Murat Yücedağ**'ın Udemy'deki *Asp.Net Mvc5 ile Online Ticari Otomasyon* kursunu takip ederek geliştirilmiş bir **ASP.NET MVC5** tabanlı ticari otomasyon sistemidir. Proje, stok, ürün, müşteri ve satış işlemlerini tek bir platformda yönetmeyi amaçlamaktadır.
 
 🔹 **Hedef:** Küçük ve orta ölçekli işletmelerin ticari süreçlerini dijitalleştirerek verimliliği artırmak  
