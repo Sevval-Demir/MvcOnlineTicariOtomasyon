@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\controllers\\caricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|c:\\c#\\mvconlineticariotomasyon\\mvconlineticariotomasyon\\views\\cari\\yenicari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\views\\cari\\yenicari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|c:\\c#\\mvconlineticariotomasyon\\mvconlineticariotomasyon\\views\\cari\\musterisatis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\views\\cari\\musterisatis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|c:\\c#\\mvconlineticariotomasyon\\mvconlineticariotomasyon\\models\\siniflar\\cariler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\models\\siniflar\\cariler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|c:\\c#\\mvconlineticariotomasyon\\mvconlineticariotomasyon\\views\\cari\\carigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\views\\cari\\carigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|c:\\c#\\mvconlineticariotomasyon\\mvconlineticariotomasyon\\views\\cari\\yenicari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12C4E4B-2B69-4542-844C-96CC8408DE82}|MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon.csproj|solutionrelative:mvconlineticariotomasyon\\views\\cari\\yenicari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +46,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cariler.cs",
-              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Models\\Siniflar\\Cariler.cs",
-              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Models\\Siniflar\\Cariler.cs",
-              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Models\\Siniflar\\Cariler.cs",
-              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Models\\Siniflar\\Cariler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T22:17:52.51Z",
+              "DocumentIndex": 2,
+              "Title": "MusteriSatis.cshtml",
+              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Cari\\MusteriSatis.cshtml",
+              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Views\\Cari\\MusteriSatis.cshtml",
+              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Cari\\MusteriSatis.cshtml",
+              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Views\\Cari\\MusteriSatis.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T03:05:39.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "CariGetir.cshtml",
+              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Cari\\CariGetir.cshtml",
+              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Views\\Cari\\CariGetir.cshtml",
+              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Cari\\CariGetir.cshtml",
+              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Views\\Cari\\CariGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:41:31.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CariController.cs",
+              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Controllers\\CariController.cs",
+              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Controllers\\CariController.cs",
+              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Controllers\\CariController.cs",
+              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Controllers\\CariController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswDwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:01:54.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "YeniCari.cshtml",
               "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Cari\\YeniCari.cshtml",
               "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Views\\Cari\\YeniCari.cshtml",
@@ -74,22 +104,9 @@
               "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Views\\Cari\\Index.cshtml",
               "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Views\\Cari\\Index.cshtml",
               "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Views\\Cari\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-28T22:02:04.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CariController.cs",
-              "DocumentMoniker": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Controllers\\CariController.cs",
-              "RelativeDocumentMoniker": "MvcOnlineTicariOtomasyon\\Controllers\\CariController.cs",
-              "ToolTip": "C:\\C#\\MvcOnlineTicariOtomasyon\\MvcOnlineTicariOtomasyon\\Controllers\\CariController.cs",
-              "RelativeToolTip": "MvcOnlineTicariOtomasyon\\Controllers\\CariController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwA4AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T22:01:54.472Z",
               "EditorCaption": ""
             }
           ]
